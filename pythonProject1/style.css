@@ -1,0 +1,28 @@
+h1
+{
+background: lightgrey;
+}
+.par-1
+{
+font-size: 16pt;
+color: purple
+}
+
+.par-2
+{
+border : 8px solid grey;
+border-radius : 6px;
+}
+
+div
+{
+font-family : Arial;
+font-weight : 900;
+}
+.par-3
+{
+font-style : italic;
+font-size : 24px;
+text-align : center;
+text-shadow : 1px 1px 2px green;
+}
